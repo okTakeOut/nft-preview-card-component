@@ -1,0 +1,12 @@
+한거 순서대로
+1. styles.css 만들기
+2. style guide에서 primary~neutral 확인
+3. font - outfit에서 import해서 styles.css에 적기, font-family:"Outfit", sans-serif; font-size;
+4. 2에서 복사한거 :root에 집어넣기. 색상 --color
+5. index.html에서 attribute 내용 복사해서 css파일로 옮기기
+6. index에 link걸어주기
+<link rel="stylessheet" href="./styles.css" />
+7. body에 container 삽입
+8. article/img
+9. article/h2
+10. 
